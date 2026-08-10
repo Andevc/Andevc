@@ -20,31 +20,27 @@ En el día a día trabajo con React, Next.js y Astro. De a poco estoy metiéndom
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### Bases de datos
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
 
 ### Otros
 
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ## Experiencia
@@ -60,9 +56,6 @@ En el día a día trabajo con React, Next.js y Astro. De a poco estoy metiéndom
 
 También hice el curso de **Cisco Networking Academy** (configuración de redes, seguridad y soporte).
 
-## Fuera del código
-
-Juego **Forge of Empires** y **Last Day on Earth** más de lo que admitiría en una entrevista. De hecho llegué a analizar una extensión de navegador de Forge of Empires solo para entender cómo funcionaba por dentro — la curiosidad no distingue entre proyecto académico y videojuego.
 
 ## Actividad
 
@@ -85,12 +78,3 @@ Racha de días seguidos contribuyendo, y ritmo de commits durante el último mes
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andevc&hide_border=true&bg_color=0F172A&color=60A5FA&line=3B82F6&point=FFFFFF&area=true&area_color=1E3A8A" width="100%" />
 </p>
-
-<details>
-
-
-
-
-Luego, en Settings → Actions → General, activa "Read and write permissions" y corre el workflow una vez manualmente desde la pestaña Actions.
-
-</details>
