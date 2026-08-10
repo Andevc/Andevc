@@ -1,4 +1,6 @@
-![Cristhian Escobar](https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:172554,100:1E3A8A&height=160&section=header&text=Cristhian%20Escobar&fontSize=38&fontColor=FFFFFF&fontAlignY=55)
+<p align="center">
+  <img src="./assets/portada.png" alt="Portada de Cristhian Escobar" width="80%" />
+</p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Andevc-181717?style=flat-square&logo=github)](https://github.com/Andevc)
 ![Ubicación](https://img.shields.io/badge/La%20Paz-Bolivia-2563EB?style=flat-square&logo=googlemaps&logoColor=white)
@@ -78,18 +80,3 @@ Racha de días seguidos contribuyendo, y ritmo de commits durante el último mes
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andevc&hide_border=true&bg_color=0F172A&color=60A5FA&line=3B82F6&point=FFFFFF&area=true&area_color=1E3A8A" width="100%" />
 </p>
-
-### Calendario anual de contribuciones
-
-Vista isométrica de mis contribuciones durante el último año:
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Andevc/Andevc/output/metrics.plugin.isocalendar.svg" width="100%" />
-</p>
-
-### Estadísticas de programación
-
-Resumen de mi actividad registrada con WakaTime:
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
