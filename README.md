@@ -1,9 +1,9 @@
-<p align="center">
-  <img src="./assets/portada.png" alt="Portada de Cristhian Escobar" width="100%" />
-</p>
+![Portada Andev](./assets/portada.png)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Andevc-181717?style=flat-square&logo=github)](https://github.com/Andevc)
-![Ubicación](https://img.shields.io/badge/La%20Paz-Bolivia-2563EB?style=flat-square&logo=googlemaps&logoColor=white)
+![Ubicación](https://img.shields.io/badge/La%20Paz-Bolivia-2563EB?style=flat-square&logo=googlemaps&logoColor=white)  
+
+
 
 <p>
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=60A5FA&center=false&vCenter=true&width=560&lines=aprendiendo+algo+nuevo+cada+semestre;probando+cosas+en+Three.js+%2F+WebGL;construyendo+cosas+reales%2C+rompiendo+cosas+reales" alt="Typing SVG" />
