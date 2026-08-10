@@ -20,7 +20,7 @@ En el día a día trabajo con React, Next.js y Astro. De a poco estoy metiéndom
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-E49B0F?style=for-the-badge&logo=javascript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Backend
@@ -78,3 +78,18 @@ Racha de días seguidos contribuyendo, y ritmo de commits durante el último mes
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andevc&hide_border=true&bg_color=0F172A&color=60A5FA&line=3B82F6&point=FFFFFF&area=true&area_color=1E3A8A" width="100%" />
 </p>
+
+### Calendario anual de contribuciones
+
+Vista isométrica de mis contribuciones durante el último año:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Andevc/Andevc/output/metrics.plugin.isocalendar.svg" width="100%" />
+</p>
+
+### Estadísticas de programación
+
+Resumen de mi actividad registrada con WakaTime:
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
