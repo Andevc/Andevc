@@ -83,21 +83,11 @@ Complemento esta formación mediante proyectos académicos, desarrollo colaborat
   <img src="https://raw.githubusercontent.com/Andevc/Andevc/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
 </p>
 
-Racha de días seguidos contribuyendo, y ritmo de commits durante el último mes:
-
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=Andevc&hide_border=true&background=0F172A&ring=3B82F6&fire=60A5FA&currStreakLabel=CBD5E1&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andevc&hide_border=true&bg_color=0F172A&color=60A5FA&line=3B82F6&point=FFFFFF&area=true&area_color=1E3A8A" width="100%" />
-</p>
-
 ---
 ## Contacto
 
 <p>
-  <a href="TU_ENLACE_DE_LINKEDIN">
+  <a href="https://www.linkedin.com/in/andevx/">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
   </a>
   <a href="mailto:escobarhandres@gmail.com">
