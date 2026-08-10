@@ -1,49 +1,55 @@
 ![Portada Andev](./assets/portada.png)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Andevc-181717?style=flat-square&logo=github)](https://github.com/Andevc)
-![Ubicación](https://img.shields.io/badge/La%20Paz-Bolivia-2563EB?style=flat-square&logo=googlemaps&logoColor=white)  
-
-
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=60A5FA&center=false&vCenter=true&width=560&lines=aprendiendo+algo+nuevo+cada+semestre;probando+cosas+en+Three.js+%2F+WebGL;construyendo+cosas+reales%2C+rompiendo+cosas+reales" alt="Typing SVG" />
+<p align="center">
+  <a href="https://github.com/Andevc">
+    <img src="https://img.shields.io/badge/GitHub-Andevc-181717?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/La%20Paz-Bolivia-2563EB?style=flat-square&logo=googlemaps&logoColor=white" alt="Ubicación: La Paz, Bolivia" />
 </p>
+
 
 ## Sobre mí
 
-Estudio Ingeniería Informática en la Universidad Mayor de San Andrés (La Paz, Bolivia). Me enfoco en frontend, pero en los proyectos de la carrera me ha tocado meterle mano al backend, bases de datos y hasta apps móviles.
+Estudio Informática mención "Desarrollo de Software" en la Universidad Mayor de San Andrés (La Paz, Bolivia). Me enfoco en el desarrollo web, pero en los proyectos de la carrera me ha tocado meterle mano al backend, bases de datos y hasta apps móviles.
 
 En el día a día trabajo con React, Next.js y Astro. De a poco estoy metiéndome más en Three.js y WebGL para hacer cosas más visuales e interactivas en el navegador — es hacia donde quiero ir a mediano plazo.
 
 ## Habilidades técnicas
 
-### Frontend
+<h3>Frontend</h3>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-E49B0F?style=for-the-badge&logo=javascript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-E49B0F?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
 
-### Backend
+<h3>Backend</h3>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+</p>
 
-### Bases de datos
+<h3>Bases de datos</h3>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" alt="Cassandra" />
+</p>
 
-### Otros
+<h3>Otros</h3>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+</p>
 
 ## Experiencia
 
@@ -54,7 +60,7 @@ En el día a día trabajo con React, Next.js y Astro. De a poco estoy metiéndom
 
 ## Formación
 
-**Universidad Mayor de San Andrés** — Ingeniería Informática, La Paz, Bolivia.
+**Universidad Mayor de San Andrés** — Carrera de Informática, La Paz, Bolivia.
 
 También hice el curso de **Cisco Networking Academy** (configuración de redes, seguridad y soporte).
 
@@ -65,10 +71,6 @@ La serpiente de abajo se "come" mis contribuciones del último año — se actua
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Andevc/Andevc/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/Andevc/Andevc?style=flat-square&label=%C3%BAltimo%20commit&color=3B82F6&labelColor=0F172A" />
 </p>
 
 Racha de días seguidos contribuyendo, y ritmo de commits durante el último mes:
