@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/portada.png" alt="Portada de Cristhian Escobar" width="80%" />
+  <img src="./assets/portada.png" alt="Portada de Cristhian Escobar" width="100%" />
 </p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Andevc-181717?style=flat-square&logo=github)](https://github.com/Andevc)
