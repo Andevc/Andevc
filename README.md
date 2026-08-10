@@ -1,6 +1,6 @@
 ![Portada Andev](./assets/portada.png)
 
-<h3 align="center">Web Developer · Full-stack en formación · Creative Development</h3>
+<h3 align="center">Web Developer · Full-stack en formación · Creative Developer</h3>
 
 <p align="center">
   Desarrollo aplicaciones web modernas combinando frontend, backend y experiencias interactivas.
@@ -58,15 +58,11 @@ Comparto mi trabajo bajo el nombre **Andev**, nacido de la combinación de *Andr
   <img src="https://img.shields.io/badge/GSAP-Aprendiendo-111111?style=flat-square&logo=greensock&logoColor=88CE02"/>
 </p>
 
----
-
 ## Formación
 
 Mi formación combina estudios universitarios en **Informática con mención en Desarrollo de Software** en la Universidad Mayor de San Andrés, cursos de **Cisco Networking Academy** y formación complementaria en plataformas como **Udemy** y **Código Facilito**.
 
 Complemento esta formación mediante proyectos académicos, desarrollo colaborativo, hackathons y aprendizaje práctico de nuevas tecnologías.
-
----
 
 ## Participación
 
@@ -74,19 +70,15 @@ Complemento esta formación mediante proyectos académicos, desarrollo colaborat
 * Participación en el Datatón 2025 de la Alcaldía de La Paz.
 * Desarrollo de proyectos web, sistemas en tiempo real y experiencias interactivas.
 
----
-
-
 ## Actividad
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Andevc/Andevc/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
 </p>
 
----
 ## Contacto
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/andevx/">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
   </a>
